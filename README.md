@@ -27,8 +27,6 @@ Here are some scenic images to set the mood:
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-blue?style=for-the-badge&logo=github)](https://github.com/yourgithubusername)
 
 ## GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&hide_title=true&count_private=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pbhacks&layout=compact&theme=radical)
 
 Feel free to explore my repositories, and don't hesitate to reach out. Let's connect and create something amazing together! 🚀
