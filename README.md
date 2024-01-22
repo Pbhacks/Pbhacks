@@ -34,6 +34,7 @@ Korean version:
 
 ## My System ::
 ![Alt Text](https://media.giphy.com/media/lXeeMnPH5TzHRyAPdJ/giphy.gif)
+
 ~ Softwares/Languages Learned and Used : 
 
 <div>
