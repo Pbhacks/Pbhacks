@@ -28,6 +28,7 @@ Here are some scenic images to set the mood:
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pbhacks&show_icons=true&hide_title=true&count_private=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&hide_title=true&count_private=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=radical)
 
 Feel free to explore my repositories, and don't hesitate to reach out. Let's connect and create something amazing together! 🚀
