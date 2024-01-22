@@ -26,9 +26,9 @@ Korean version:
 
 Here are some scenic images to set the mood:
 
-![React Native Wallpaper](https://example.com/react_native_wallpaper.jpg)
-![Ryzen](https://example.com/ryzen.jpg)
-![Cybersecurity](https://example.com/cybersecurity.jpg)
+![Image 1](https://source.unsplash.com/400x200/?mountains)
+![Image 2](https://source.unsplash.com/400x200/?sea)
+![Image 3](https://source.unsplash.com/400x200/?forest)
 
 
 > Refresh the page to see different images!
