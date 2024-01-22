@@ -41,6 +41,7 @@ Here are some scenic images to set the mood:
 ## GitHub Statistics
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pbhacks&layout=compact&theme=radical)
 ![GitHub Contributions Graph](https://github-readme-streak-stats.herokuapp.com/?user=pbhacks&theme=radical)
-![GitHub Stars](https://img.shields.io/github/stars/pbhacks/yourrepositoryname?style=social)
+![GitHub Release](https://img.shields.io/github/v/release/yourgithubusername/yourrepositoryname)
+
 
 Feel free to explore my repositories, and don't hesitate to reach out. Let's connect and create something amazing together! 🚀
