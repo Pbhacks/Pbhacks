@@ -1,8 +1,6 @@
 # Welcome to My GitHub Portfolio! 🌄
 
-
-
-[![Header Image](https://github.com/Pbhacks/Pbhacks/blob/main/7dGVB6w.png)
+![Header Image](https://github.com/Pbhacks/Pbhacks/blob/main/7dGVB6w.png)
 
 Hey there! 👋 I'm Priyant Banerjee, a passionate Developer and CEH student based in Mumbai, India. I love Coding and am constantly exploring new technologies to enhance my skills.
 
@@ -26,9 +24,9 @@ Korean version:
 
 Here are some scenic images to set the mood:
 
-![Image 1](https://source.unsplash.com/400x200/?mountains)
-![Image 2](https://source.unsplash.com/400x200/?sea)
-![Image 3](https://source.unsplash.com/400x200/?forest)
+![Image 1](https://source.unsplash.com/400x200)
+![Image 2](https://source.unsplash.com/400x200)
+![Image 3](https://source.unsplash.com/400x200)
 
 
 > Refresh the page to see different images!
