@@ -1,7 +1,8 @@
 # Welcome to My GitHub Portfolio! 🌄
 
 ![Header Image](https://github.com/Pbhacks/Pbhacks/blob/main/7dGVB6w.png)
-<iframe src="https://giphy.com/embed/lXeeMnPH5TzHRyAPdJ" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/AMD-amd-radeon-where-gaming-begins-lXeeMnPH5TzHRyAPdJ">via GIPHY</a></p>
+![Alt Text](https://media.giphy.com/media/lXeeMnPH5TzHRyAPdJ/giphy.gif)
+
 
 Hey there! 👋 I'm Priyant Banerjee, a passionate Developer and CEH student based in Mumbai, India. I love Coding and am constantly exploring new technologies to enhance my skills.
 
