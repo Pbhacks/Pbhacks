@@ -1,4 +1,6 @@
 # Welcome to My GitHub Portfolio! 🌄
+![](https://komarev.com/ghpvc/?username=pbhacks)
+
 
 ![Header Image](https://source.unsplash.com/1200x300/?landscape,nature) <!-- Replace with your scenic image link -->
 
