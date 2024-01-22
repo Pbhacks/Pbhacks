@@ -26,13 +26,13 @@ Korean version:
 
 Here are some scenic images to set the mood:
 
-![Image 1](https://source.unsplash.com/400x200/?mountains)
-![Image 2](https://source.unsplash.com/400x200/?sea)
-![Image 3](https://source.unsplash.com/400x200/?forest)
+![React Native Wallpaper](https://example.com/react_native_wallpaper.jpg)
+![Ryzen](https://example.com/ryzen.jpg)
+![Cybersecurity](https://example.com/cybersecurity.jpg)
+
 
 > Refresh the page to see different images!
-[![Dark Mode](https://img.shields.io/badge/Dark%20Mode-301934?style=for-the-badge)](https://example.com/dark-mode)
-[![Light Mode](https://img.shields.io/badge/Light%20Mode-FFD9EB?style=for-the-badge)](https://example.com/light-mode)
+
 
 ## Connect with Me
 
