@@ -2,7 +2,7 @@
 
 
 
-![Header Image](https://source.unsplash.com/1200x300/?landscape,nature) <!-- Replace with your scenic image link -->
+<img src="[https://your-image-url.type](https://github.com/Pbhacks/Pbhacks/blob/main/7dGVB6w.png)" width="100" height="100"> <!-- Replace with your scenic image link -->
 
 Hey there! 👋 I'm Priyant Banerjee, a passionate Developer and CEH student based in Mumbai, India. I love Coding and am constantly exploring new technologies to enhance my skills.
 
