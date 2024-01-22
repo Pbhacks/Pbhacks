@@ -4,7 +4,7 @@
 
 ![Header Image](https://source.unsplash.com/1200x300/?landscape,nature) <!-- Replace with your scenic image link -->
 
-Hey there! 👋 I'm [Your Name], a passionate [Your Profession/Title] based in [Your Location]. I love [Your Interests/Hobbies] and am constantly exploring new technologies to enhance my skills.
+Hey there! 👋 I'm Priyant Banerjee, a passionate Developer and CEH student based in Mumbai, India. I love Coding and am constantly exploring new technologies to enhance my skills.
 
 ## About Me
 
@@ -31,6 +31,8 @@ Here are some scenic images to set the mood:
 ![Image 3](https://source.unsplash.com/400x200/?forest)
 
 > Refresh the page to see different images!
+[![Dark Mode](https://img.shields.io/badge/Dark%20Mode-301934?style=for-the-badge)](https://example.com/dark-mode)
+[![Light Mode](https://img.shields.io/badge/Light%20Mode-FFD9EB?style=for-the-badge)](https://example.com/light-mode)
 
 ## Connect with Me
 
@@ -41,7 +43,6 @@ Here are some scenic images to set the mood:
 ## GitHub Statistics
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pbhacks&layout=compact&theme=radical)
 ![GitHub Contributions Graph](https://github-readme-streak-stats.herokuapp.com/?user=pbhacks&theme=radical)
-![GitHub Release](https://img.shields.io/github/v/release/yourgithubusername/yourrepositoryname)
 
 
 Feel free to explore my repositories, and don't hesitate to reach out. Let's connect and create something amazing together! 🚀
