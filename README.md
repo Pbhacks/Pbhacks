@@ -1,5 +1,5 @@
 # Welcome to My GitHub Portfolio! 🌄
-![](https://komarev.com/ghpvc/?username=pbhacks)
+
 
 
 ![Header Image](https://source.unsplash.com/1200x300/?landscape,nature) <!-- Replace with your scenic image link -->
@@ -41,5 +41,6 @@ Here are some scenic images to set the mood:
 ## GitHub Statistics
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pbhacks&layout=compact&theme=radical)
 ![GitHub Contributions Graph](https://github-readme-streak-stats.herokuapp.com/?user=pbhacks&theme=radical)
+![GitHub Stars](https://img.shields.io/github/stars/pbhacks/yourrepositoryname?style=social)
 
 Feel free to explore my repositories, and don't hesitate to reach out. Let's connect and create something amazing together! 🚀
