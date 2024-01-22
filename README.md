@@ -4,11 +4,21 @@
 
 Hey there! 👋 I'm Priyant Banerjee, a passionate Developer and CEH student based in Mumbai, India. I love Coding and am constantly exploring new technologies to enhance my skills.
 
-## About Me
+## 🌱About Me 🔭
 
 I am deeply passionate about ethical hacking (CEH) and cybersecurity, and my journey in computer science began in the playground of childhood curiosity. From a young age, I found joy in unraveling the mysteries of technology, and that passion has only grown over the years. Specializing in CEH allows me to navigate the digital landscape with a sense of purpose, ensuring the security and integrity of systems. My commitment to excellence in cybersecurity is matched only by my love for the ever-evolving world of computer science. Let's embark on this digital adventure together, where every challenge is an opportunity to learn and innovate.
 
 In my free time, you can find me coding, analyzing and developing, or maybe working on some Electronics or Economic projects. I believe in the power of technology to make the world a better place, and I'm excited to be a part of this journey.
+
+I'm an enthusiast Cybersecurity learner and currently a student who is Pursuing B.Tech Computer Science and Engineering as main stream.
+Further, I am also involving myself completely into doing various internships starting from web developement to software developement as,
+I want to expand my knowledge as much as possible and, don't want to keep it limited.
+
+⚡I also like sharing my knowledge with people who are truly dedicated and on receiving the correct opportunity I always try to learn from my seniors,
+whether be my Parents, Professors, or/else any seniors.
+
+⚡Becoming an Chief Information security officer some day is my dream and, also want to become an ethical hacker!!! Trying my level best to use my university days,
+to do so and gain as much as information as possible.
 
 JP version: 
 ------------
@@ -24,10 +34,11 @@ Korean version:
 
 Here are some scenic images to set the mood:
 
-![Image 1](https://source.unsplash.com)
-![Image 2](https://source.unsplash.com/400x200)
-![Image 3](https://source.unsplash.com/400x200)
-
+![Image 1](https://source.unsplash.com/400x200/?mountains)
+![Image 2](https://github.com/Pbhacks/Pbhacks/blob/main/2.jpg)
+![Image 3](https://source.unsplash.com/400x200/?sea)
+![Image 4](https://github.com/Pbhacks/Pbhacks/blob/main/3.jpg)
+![Image 5](https://source.unsplash.com/400x200/?forest)
 
 > Refresh the page to see different images!
 
