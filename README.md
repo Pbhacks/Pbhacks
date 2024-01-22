@@ -40,7 +40,6 @@ Here are some scenic images to set the mood:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pbhacks&layout=compact&theme=radical)
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pbhacks&theme=react-dark)
 ![GitHub Contributions Graph](https://github-readme-streak-stats.herokuapp.com/?user=pbhacks&theme=radical)
-
-
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pbhacks&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
 
 Feel free to explore my repositories, and don't hesitate to reach out. Let's connect and create something amazing together! 🚀
