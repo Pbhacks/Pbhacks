@@ -54,7 +54,7 @@ Korean version:
 Here are some scenic images to set the mood:
 
 ![Image 1](https://source.unsplash.com/400x200/?mountains)
-![Image 2](https://github.com/Pbhacks/Pbhacks/blob/main/400x200/2.jpg)
+![Image 2](https://github.com/Pbhacks/Pbhacks/blob/main/2.jpg)
 ![Image 3](https://source.unsplash.com/400x200/?sea)
 ![Image 4](https://github.com/Pbhacks/Pbhacks/blob/main/3.jpg)
 ![Image 5](https://source.unsplash.com/400x200/?forest)
