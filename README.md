@@ -24,7 +24,7 @@ Korean version:
 
 Here are some scenic images to set the mood:
 
-![Image 1](https://source.unsplash.com/400x200)
+![Image 1](https://source.unsplash.com)
 ![Image 2](https://source.unsplash.com/400x200)
 ![Image 3](https://source.unsplash.com/400x200)
 
