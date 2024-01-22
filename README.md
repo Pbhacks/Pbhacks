@@ -31,6 +31,7 @@ Korean version:
 나는 윤리적 해킹(CEH)과 사이버 보안에 깊은 열정을 품고 있으며, 나의 컴퓨터 과학 여정은 어린 시절의 호기심의 놀이터에서 시작되었습니다. 어린 시절부터 기술의 신비를 풀어가는 것에서 기쁨을 느끼며, 그 열정은 시간이 흐를수록 더 커져왔습니다. CEH 전문 지식을 활용하여 디지털 세계를 목적을 가지고 탐험하며, 시스템의 보안과 무결성을 보장하고 있습니다. 나의 사이버 보안에서의 우수성에 대한 헌신은 컴퓨터 과학의 끊임없는 진화에 대한 사랑만큼이나 큽니다. 함께 이 디지털 모험에 떠나 보자. 각각의 도전은 학습과 혁신의 기회입니다.
 
 ## Portfolio Preview
+~ Softwares/Languages Learned and Used : 
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
